@@ -480,7 +480,10 @@ CMD ["sh", "-c", "uvicorn warden.payment_service:app --port 8001 --host 0.0.0.0 
 ```
 
 ### Demo Video Walkthrough
-*(Video demonstration link: [Warden Incident Response Demo Video](#))*
+
+
+https://github.com/user-attachments/assets/b729875b-32b2-4abb-92e9-fcf5e96e76ab
+
 
 ---
 
