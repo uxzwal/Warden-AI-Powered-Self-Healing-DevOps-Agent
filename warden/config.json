@@ -1,0 +1,11 @@
+{
+  "service_name": "Payment Gateway Simulator",
+  "max_connections": 2,
+  "baseline_max_connections": 50,
+  "processing_delay_ms": 200.0,
+  "baseline_processing_delay_ms": 100.0,
+  "is_degraded": true,
+  "incident_description": "Simulated upstream connection pool starvation (DB thread exhaustion)",
+  "admin_token": "warden-admin-secret-token",
+  "port": 8001
+}
